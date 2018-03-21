@@ -37,3 +37,4 @@ get_weather("London")
 # fix key
 # weather
 # fix key
+# weather
