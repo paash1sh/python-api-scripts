@@ -32,3 +32,4 @@ get_weather("Kathmandu")
 get_weather("New York")
 get_weather("London")
 # weather
+# fix key
