@@ -29,3 +29,4 @@ def get_forecast(city):
         print("something went wrong:", response.status_code)
 
 get_forecast("Kathmandu")
+# forecast
