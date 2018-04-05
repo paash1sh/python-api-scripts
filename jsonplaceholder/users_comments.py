@@ -38,3 +38,4 @@ response = requests.get(f"{BASE_URL}/posts/1")
 print("content-type:", response.headers.get("Content-Type"))
 print("response time:", response.elapsed.total_seconds(), "seconds")
 # users
+# users
