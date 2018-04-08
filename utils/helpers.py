@@ -29,3 +29,4 @@ def print_response_info(response):
     print(f"  URL: {response.url}")
     print(f"  Status: {response.status_code}")
     print(f"  Time: {response.elapsed.total_seconds()}s")
+# helpers
