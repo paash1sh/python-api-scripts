@@ -29,3 +29,4 @@ For weather scripts you need a free API key from openweathermap.org, put it in t
 - How to read JSON responses
 - How to pass query parameters and headers
 - Checking status codes and response time
+# readme
